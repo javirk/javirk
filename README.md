@@ -2,9 +2,9 @@
 
 I'm an AI researcher with very wide interests from [Computer Vision](https://github.com/Moving-AI/virtual-walk) to [Simulation](https://github.com/javirk/Wormhole-simulation). I was the creator of [Person Remover](https://github.com/javirk/Person_remover)👻 and co-creator of [Virtual Walk](https://github.com/Moving-AI/virtual-walk)🏃‍♂️.
 
-Now, I am working on [rendering](https://github.com/javirk/rusterizer) and doing my first steps in [cell simulation](https://github.com/javirk/cme_solver) while learning Rust🦀. In AI, I am interested in Neural Rendering. 
+Now, I am working on [rendering](https://github.com/javirk/rusterizer) and doing my first steps in [cell simulation](https://github.com/javirk/cell_simulation) while learning Rust🦀. In AI, I am interested in Neural Rendering. 
 
-Visit more of my work in my personal webpage: https://www.javiergamazo.com/
+Visit more of my work on my personal webpage: https://www.javiergamazo.com/
 
 <!--If you're interested in the work I do, please consider sponsoring me on GitHub!-->
 
